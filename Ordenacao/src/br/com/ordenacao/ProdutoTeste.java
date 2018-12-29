@@ -21,7 +21,7 @@ public class ProdutoTeste {
 		List<Produto> list = new ArrayList<Produto>();
 		list.add(p);
 		for (int i = 0; i < list.size(); i++) {
-			System.out.println(list.get(i).getNome());
+//			System.out.println(p));
 		}
 
 	}
